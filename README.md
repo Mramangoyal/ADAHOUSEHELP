@@ -1,0 +1,2 @@
+# ADAHOUSEHELP
+Finding reliable domestic helpers has become a daunting task for urban population. Keeping this requirement in mind ADA Househelp is proposed. This is a web based application whose primary aim is to facilitate search for domestic helpers in cities, wherein we provide them a number of services as options to choose from and the provision to browse through the available choices as per their requirements of service.
